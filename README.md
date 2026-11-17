@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Hi, normie" src="" width="100%">
+<img alt="Hi, normie" src="https://github.com/lobonp/lobonp/blob/main/spongebob.gif" width="100%">
